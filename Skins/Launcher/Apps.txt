@@ -1,0 +1,44 @@
+//********************************************************//
+Sorry Cheesewoo that I am 5 or so mounth late with this,
+not been on DevientArt for a while.
+Regards,
+RainbowHooves
+//********************************************************//
+!!!! IMPORTANT !!!! You also need "Launcher.ini" !!!!
+//********************************************************//
+Place this (Apps.txt) in a folder
+(..//Rainmeter/Skins/Launcher)
+Along with Launcher.ini
+//********************************************************//
+
+[Variables]
+
+App1=Chrome
+App1Path=C:/Program Files (x86)/Google/Chrome/Application/chrome.exe
+
+App2=Atom
+App2Path=C:/Users/Oliver/AppData/Local/atom/atom.exe
+
+App3="Launchers"
+App3Path=
+
+App4=""
+App4Path=
+
+App5=""
+App5Path=
+
+App6=""
+App6Path=
+
+App7=""
+App7Path=
+
+App8=
+App8Path=
+
+App9=""
+App9Path=
+
+App10=""
+App10Path=
